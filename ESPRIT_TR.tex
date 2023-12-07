@@ -895,11 +895,7 @@ I guess the two roots of the equation are $(g_1b_{11}^2 + g_2 b_{21}^2)\frac{n}{
 
 Specially,$P$ is diagonal,$B = \I_k$,$b_{11} = b_{22} = 1 , b_{12} = b_{21} =0$,$\overline{\lambda}_1 = g_1\frac{n}{N}e^{i\theta_1},\overline{\lambda}_2 = g_2\frac{n}{N}e^{i\theta_2}$(consistent with the results of our paper)
 
-\begin{align}
-    \begin{equation}
-        g_1g_2 = (g_1b_{11}^2 + g_2 b_{21}^2)(g_1b_{21}^2 + g_2 b_{22}^2) - b_{11}^2b_{12}^2(g_1-g_2)^2
-    \end{equation}
-\end{align}
+
 If we can prove that the second item ($b_{11}^2b_{12}^2(g_1-g_2)^2$)  asymptotically($N,T \rightarrow \infty$) converges to 0(\textbf{Note} : the item is equal to 0 absolutely when P is diagonal,  due to $b_{12} = 0$).
 \begin{equation}
     \begin{aligned}
@@ -907,13 +903,13 @@ If we can prove that the second item ($b_{11}^2b_{12}^2(g_1-g_2)^2$)  asymptotic
     \end{aligned}
 \end{equation}
 All we need do is to prove the rate of the item2 is slowly than the first ite12312321321435342m $\lambda_1 =1 $
-\begin{figure}
+\begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.8\textwidth,height=0.5\textwidth]{12345.png}
-    \caption{The caption} \label{fig1}
-    \end{figure}
+    \includegraphics[scale=0.2]{1233.eps}
+    \caption{figure title}
+    \label{figure}
+\end{figure}
     
-\end{document} 
 
 \section{Multiple angle detection}
 
@@ -924,7 +920,7 @@ In the case of a fixed number $k$ of signal sources with angle $\theta_1, \ldots
 	\X = \A \S + \Z 
 \end{equation}
 with $\X = [\x(1), \ldots, \x(T)] \in \CC^{N \times T}$, $\A = [\mathbf{a}(\theta_1), \ldots, \mathbf{a}(\theta_k)] \in \CC^{N \times k}$, $\S = [\s(1), \ldots, \s(T)] \in \CC^{k \times T}$, column vector $\s(t) = [s_1(t), \ldots, s_k(t)]^\T \in \CC^k$ and $\Z = [\z(1), \ldots, \z(T)] \in \CC^{N \times T}$ a standard (circular) Gaussian random matrix.
-
+% "D:\Microsoft VS Code\Code.exe" "D:\Microsoft VS Code\resources\app\out\cli.js"  --ms-enable-electron-run-as-node -r -g "%f:%l"
 As a consequence,
 \begin{equation}
 	\frac1T \X \X^\H = \frac1T \Z \Z^\H + \begin{bmatrix}\A & \frac{\Z \S^\H}{T}\end{bmatrix} \begin{bmatrix} \frac1T \S \S^\H & \I_k \\ \I_k & \mathbf{0}_k \end{bmatrix} \begin{bmatrix} \A^\H \\ \frac{(\Z \S^\H)^\H}{T}\end{bmatrix} \equiv \frac1T \Z \Z^\H + \V \bLambda \V^\H

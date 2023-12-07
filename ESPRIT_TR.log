@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2023.4.13)  7 DEC 2023 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2023.4.13)  7 DEC 2023 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,7 +560,14 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count321
 \l__pdf_internal_box=\box61
-) (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.aux)
+) (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.aux
+
+LaTeX Warning: Label `eq:def_ULA' multiply defined.
+
+
+LaTeX Warning: Label `eq:def_ULA@cref' multiply defined.
+
+)
 \openout1 = `ESPRIT_TR.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -653,6 +660,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 25.
 LaTeX Info: Redefining \pageref on input line 25.
 LaTeX Info: Redefining \nameref on input line 25.
+ (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.out) (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.out)
 \@outlinefile=\write4
 \openout4 = `ESPRIT_TR.out'.
 
@@ -688,10 +696,6 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 27.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 27.
-
-
-LaTeX Warning: Citation `paulraj1986subspace' on page 1 undefined on input line 30.
-
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 11.40997pt on input line 34.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -705,36 +709,16 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 34.
 LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 36.
-(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ufplmbb.fd
+ (c:/texlive/2021/texmf-dist/tex/latex/psnfss/ufplmbb.fd
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 38.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 38.
-
-
-LaTeX Warning: Citation `paulraj1986subspace' on page 1 undefined on input line 56.
-
-[1
+ [1
 
 {c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-
-LaTeX Warning: Reference `eq:ESPRIT1' on page 3 undefined on input line 166.
-
-
-LaTeX Warning: Reference `ass:wide' on page 1 undefined on input line 187.
-
-
-LaTeX Warning: Citation `Vallet2015Performance' on page 3 undefined on input line 187.
-
-
-LaTeX Warning: Reference `ass:large_array' on page 1 undefined on input line 215.
-
-
-LaTeX Warning: Reference `ass:wide' on page 3 undefined on input line 215.
-
-
 Overfull \hbox (11.36722pt too wide) detected at line 241
 []\OT1/zplm/b/n/10.95 Q[] []\OMS/zplm/m/n/10.95 f\OML/zplm/m/it/10.95 e[]\OMS/zplm/m/n/10.95 g[]\OT1/zplm/b/n/10.95 Q \OT1/zplm/m/n/10.95 = (\OT1/zplm/b/n/10.95 Q[]A[]J[]J[]AQ\OT1/zplm/m/n/10.95 )[]\OT1/zplm/b/n/10.95 Q[]A[]J[]J[]AQ \OT1/zplm/m/n/10.95 = (\OT1/zplm/b/n/10.95 U[]J[]J[]U[]\OT1/zplm/m/n/10.95 )[]\OT1/zplm/b/n/10.95 U[]J[]J[]U[]\OT1/ppl/m/n/10.95 ,
  []
@@ -765,12 +749,12 @@ Overfull \hbox (143.87277pt too wide) detected at line 509
 []
  []
 
-
+[9]
 Overfull \hbox (107.4164pt too wide) detected at line 551
 []
  []
 
-[9] [10]
+[10] [11]
 Overfull \hbox (68.38657pt too wide) detected at line 583
 [] [][] \OT1/zplm/m/n/10.95 = []
  []
@@ -785,7 +769,7 @@ Overfull \hbox (243.5191pt too wide) detected at line 613
 []
  []
 
-[11]
+[12]
 Overfull \hbox (104.94162pt too wide) detected at line 624
 [] [][] \OT1/zplm/m/n/10.95 = []
  []
@@ -800,28 +784,29 @@ Overfull \hbox (55.19296pt too wide) detected at line 644
 []
  []
 
-[12]
+
 Overfull \hbox (174.94568pt too wide) detected at line 657
 []
  []
 
-
+[13]
 Overfull \hbox (55.19296pt too wide) detected at line 674
 []
  []
 
-[13]
+
 Overfull \hbox (139.55031pt too wide) detected at line 680
 []
  []
 
-
-LaTeX Warning: Command \L invalid in math mode on input line 692.
-
-
-LaTeX Warning: Command \L invalid in math mode on input line 692.
-
 [14]
+
+LaTeX Warning: Command \L invalid in math mode on input line 692.
+
+
+LaTeX Warning: Command \L invalid in math mode on input line 692.
+
+
 Overfull \hbox (4.10736pt too wide) detected at line 715
 []
  []
@@ -851,527 +836,74 @@ Overfull \hbox (159.39484pt too wide) in paragraph at lines 881--891
 $[][]$ 
  []
 
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.902 \end{align}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: You can't use `\eqno' in math mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.902 \end{align}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: LaTeX Error: \begin{align} on input line 898 ended by \end{equation}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.902 \end{align}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing $ inserted.
-<inserted text> 
-                $
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.902 \end{align}
-                 
-I'm guessing that you meant to end an alignment here.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing { inserted.
-<inserted text> 
-                {
-l.902 \end{align}
-                 
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing { inserted.
-<inserted text> 
-                {
-l.902 \end{align}
-                 
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Extra }, or forgotten $.
-<recently read> }
-                 
-l.902 \end{align}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing $ inserted.
-<inserted text> 
-                $
-l.902 \end{align}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.902 \end{align}
-                 
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Misplaced \cr.
-\math@cr@@@ ...wtrue \fi \global \lineht@ \z@ \cr 
-                                                  
-l.902 \end{align}
-                 
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Misplaced \cr.
-\measure@ ...olumn@ \z@ \add@amps \maxfields@ \cr 
-                                                  }}\restorecounters@ \ifodd...
-l.902 \end{align}
-                 
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Extra }, or forgotten $.
-\measure@ ...lumn@ \z@ \add@amps \maxfields@ \cr }
-                                                  }\restorecounters@ \ifodd ...
-l.902 \end{align}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Extra }, or forgotten $.
-\measure@ ...umn@ \z@ \add@amps \maxfields@ \cr }}
-                                                  \restorecounters@ \ifodd \...
-l.902 \end{align}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing number, treated as zero.
-<to be read again> 
-                   >
-l.902 \end{align}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   >
-l.902 \end{align}
-                 
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing $ inserted.
-<inserted text> 
-                $
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.902 \end{align}
-                 
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.902 \end{align}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: You can't use `\eqno' in math mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.902 \end{align}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: LaTeX Error: \begin{document} ended by \end{equation}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.902 \end{align}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing $ inserted.
-<inserted text> 
-                $
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.902 \end{align}
-                 
-I'm guessing that you meant to end an alignment here.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing { inserted.
-<inserted text> 
-                {
-l.902 \end{align}
-                 
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing { inserted.
-<inserted text> 
-                {
-l.902 \end{align}
-                 
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Extra }, or forgotten $.
-<recently read> }
-                 
-l.902 \end{align}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing $ inserted.
-<inserted text> 
-                $
-l.902 \end{align}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing } inserted.
-<inserted text> 
-                }
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.902 \end{align}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Misplaced \cr.
-\math@cr@@@ ->\cr 
-                  
-l.902 \end{align}
-                 
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Misplaced \noalign.
-\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
-                                                  {\vskip #1\relax }
-l.902 \end{align}
-                 
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Misplaced \noalign.
-\black@ #1->\noalign 
-                     {\ifdim #1>\displaywidth \dimen@ \prevdepth \nointerlin...
-l.902 \end{align}
-                 
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Overfull \hbox (274.8753pt too wide) detected at line 902
-[]
- []
-
 [19]
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Too many }'s.
-\endalign ->\math@cr \black@ \totwidth@ \egroup 
-                                                \ifingather@ \restorealignst...
-l.902 \end{align}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
+Package epstopdf Info: Source file: <1233.eps>
+(epstopdf)                    date: 2023-12-07 16:23:03
+(epstopdf)                    size: 19335 bytes
+(epstopdf)             Output file: <1233-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-12-07 16:25:06
+(epstopdf)                    size: 6872 bytes
+(epstopdf)             Command: <repstopdf --outfile=1233-eps-converted-to.pdf 1233.eps>
+(epstopdf)             \includegraphics on input line 908.
+Package epstopdf Info: Output file is already uptodate.
+<1233-eps-converted-to.pdf, id=266, 421.575pt x 316.18124pt>
+File: 1233-eps-converted-to.pdf Graphic file (type pdf)
+<use 1233-eps-converted-to.pdf>
+Package pdftex.def Info: 1233-eps-converted-to.pdf  used on input line 908.
+(pdftex.def)             Requested size: 84.31349pt x 63.23512pt.
 
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: LaTeX Error: \begin{document} ended by \end{align}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.902 \end{align}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Missing $ inserted.
-<inserted text> 
-                $
-l.902 \end{align}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.902 \end{align}
-                 
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex:902: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.902 \end{align}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-<12345.png, id=194, 632.3625pt x 474.27188pt>
-File: 12345.png Graphic file (type png)
-<use 12345.png>
-Package pdftex.def Info: 12345.png  used on input line 912.
-(pdftex.def)             Requested size: 341.44171pt x 213.39142pt.
-
-Overfull \hbox (16.25177pt too wide) in paragraph at lines 908--915
+Overfull \hbox (16.25177pt too wide) in paragraph at lines 904--912
 \T1/ppl/m/n/10.95 All we need do is to prove the rate of the item2 is slowly than the first ite12312321321435342m
  []
 
-[20 <c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/12345.png (PNG copy)>] (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.aux)
+
+Overfull \hbox (18.44215pt too wide) in paragraph at lines 927--929
+\T1/ppl/m/n/10.95 where we as-sume the the sig-nals are un-cor-re-lated and de-note the di-ag-o-nal $\OT1/zplm/b/n/10.95 P \OT1/zplm/m/n/10.95 = [][] []\OT1/zplm/b/n/10.95 SS[]$
+ []
+
+[20 <c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/1233-eps-converted-to.pdf>]
+Overfull \hbox (55.25217pt too wide) detected at line 960
+[]\OT1/zplm/b/n/10.95 V[]\OT1/zplm/m/n/10.95 (\OT1/zplm/b/n/10.95 I[] \OT1/zplm/m/n/10.95 + \OT1/zplm/b/n/10.95 V[]QV[]\OT1/zplm/m/n/10.95 )[]\OT1/zplm/b/n/10.95 V[] \OT1/zplm/m/n/10.95 = [] [] [] + \OML/zplm/m/it/10.95 o[]\OT1/zplm/m/n/10.95 (\OT1/ppl/m/n/10.95 1\OT1/zplm/m/n/10.95 )
+ []
+
+[21]
+Overfull \hbox (1.55594pt too wide) in paragraph at lines 997--999
+\T1/ppl/m/n/10.95 we par-tic-u-larly ob-tain $[][] \OML/zplm/m/it/10.95 xm\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 x\OT1/zplm/m/n/10.95 ) = \OMS/zplm/m/n/10.95 ^^@\OT1/ppl/m/n/10.95 1 \OMS/zplm/m/n/10.95 ^^@ []$\T1/ppl/m/n/10.95 . So one must have $\OML/zplm/m/it/10.95 `[] \OT1/zplm/m/n/10.95 = \OML/zplm/m/it/10.95 ^^U[]\OT1/zplm/m/n/10.95 (\OT1/zplm/b/n/10.95 PA[]A\OT1/zplm/m/n/10.95 ) \OMS/zplm/m/n/10.95 ^^U
+ []
+
+[22]
+Overfull \hbox (2.38544pt too wide) detected at line 1077
+[]\OT1/zplm/m/n/10.95 [\OT1/zplm/b/n/10.95 a[]\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 ^^R[]\OT1/zplm/m/n/10.95 )][] = []\OML/zplm/m/it/10.95 e[] \OT1/zplm/m/n/10.95 = []\OML/zplm/m/it/10.95 e[] \OMS/zplm/m/n/10.95 ^^A \OML/zplm/m/it/10.95 e[] \OT1/zplm/m/n/10.95 = []\OML/zplm/m/it/10.95 e[] \OMS/zplm/m/n/10.95 ^^A \OML/zplm/m/it/10.95 e[]
+ []
+
+[23]
+Overfull \hbox (9.51808pt too wide) in paragraph at lines 1102--1104
+\T1/ppl/m/n/10.95 with $\OT1/zplm/b/n/10.95 X \OT1/zplm/m/n/10.95 = [\OT1/zplm/b/n/10.95 x\OT1/zplm/m/n/10.95 (\OT1/ppl/m/n/10.95 1\OT1/zplm/m/n/10.95 )\OT1/ppl/m/n/10.95 , [] , \OT1/zplm/b/n/10.95 x\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 T\OT1/zplm/m/n/10.95 )] \OMS/zplm/m/n/10.95 2 \U/fplmbb/m/n/10.95 C[]$\T1/ppl/m/n/10.95 , $\OT1/zplm/b/n/10.95 A[] \OT1/zplm/m/n/10.95 = [\OT1/zplm/b/n/10.95 a[]\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 ^^R[]\OT1/zplm/m/n/10.95 )\OT1/ppl/m/n/10.95 , [] , \OT1/zplm/b/n/10.95 a[]\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 ^^R[]\OT1/zplm/m/n/10.95 )] \OMS/zplm/m/n/10.95 2 \U/fplmbb/m/n/10.95 C[]$\T1/ppl/m/n/10.95 , $\OT1/zplm/b/n/10.95 S \OT1/zplm/m/n/10.95 = [\OT1/zplm/b/n/10.95 s\OT1/zplm/m/n/10.95 (\OT1/ppl/m/n/10.95 1\OT1/zplm/m/n/10.95 )\OT1/ppl/m/n/10.95 , [] , \OT1/zplm/b/n/10.95 s\OT1/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 T\OT1/zplm/m/n/10.95 )] \OMS/zplm/m/n/10.95 2
+ []
+
+[24] (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.bbl) [25] (c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.aux)
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `ESPRIT_TR.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ESPRIT_TR.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  142A6F5B5F3FEA91C2A83F54B25F611F;3502.
+Package rerunfilecheck Info: File `ESPRIT_TR.out' has not changed.
+(rerunfilecheck)             Checksum: 8528A5F60C5845217734B5D88069BC8A;5030.
  ) 
 Here is how much of TeX's memory you used:
- 33285 strings out of 478994
- 762174 string characters out of 5862207
- 1169324 words of memory out of 5000000
- 50089 multiletter control sequences out of 15000+600000
- 462486 words of font info for 168 fonts, out of 8000000 for 9000
+ 33381 strings out of 478994
+ 763988 string characters out of 5862207
+ 1167324 words of memory out of 5000000
+ 50116 multiletter control sequences out of 15000+600000
+ 465694 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,89p,819b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.pdf" (20 pages, 261906 bytes).
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmbi.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.pdf" (25 pages, 264222 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 115 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 387 compressed objects within 4 object streams
+ 170 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 
