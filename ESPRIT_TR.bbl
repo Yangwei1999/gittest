@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{paulraj1986subspace}
+A.~Paulraj, R.~Roy, and T.~Kailath.
+\newblock {A subspace rotation approach to signal parameter estimation}.
+\newblock {\em Proceedings of the IEEE}, 74(7):1044--1046, 1986.
+
+\bibitem{Vallet2015Performance}
+Pascal Vallet, Xavier Mestre, and Philippe Loubaton.
+\newblock Performance analysis of an improved {{MUSIC DoA}} estimator.
+\newblock {\em IEEE Transactions on Signal Processing}, 63(23):6407--6422,
+  2015.
+
+\end{thebibliography}
