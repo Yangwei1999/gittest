@@ -1,19 +1,19 @@
 # Fdb version 3
-["bibtex ESPRIT_TR"] 1701937706 "ESPRIT_TR.aux" "ESPRIT_TR.bbl" "ESPRIT_TR" 1701937708
-  "ESPRIT_TR.aux" 1701937708 5241 f56a496b7f50eee9338bb5d9e2ad5e61 "pdflatex"
+["bibtex ESPRIT_TR"] 1701938965 "ESPRIT_TR.aux" "ESPRIT_TR.bbl" "ESPRIT_TR" 1701938969
+  "ESPRIT_TR.aux" 1701938968 5241 98fc1d40df3f0a7a682314809e83bb6d "pdflatex"
   "c:/texlive/2021/texmf-dist/bibtex/bst/base/plain.bst" 1681393533 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "liao.bib" 1701930705 757 b75d28cc5fc6b37d84af83d9056e1a58 ""
   (generated)
-  "ESPRIT_TR.bbl"
   "ESPRIT_TR.blg"
-["pdflatex"] 1701937706 "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex" "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.pdf" "ESPRIT_TR" 1701937708
+  "ESPRIT_TR.bbl"
+["pdflatex"] 1701938966 "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex" "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.pdf" "ESPRIT_TR" 1701938969
   "1233.eps" 1701937383 19335 c527fb47b97ebaf76c9475738392ca2d ""
-  "ESPRIT_TR.aux" 1701937708 5241 f56a496b7f50eee9338bb5d9e2ad5e61 "pdflatex"
-  "ESPRIT_TR.bbl" 1701937706 495 8b3fab57f9160e99e2e4f8f56cb62e34 "bibtex ESPRIT_TR"
-  "ESPRIT_TR.out" 1701937708 5030 8528a5f60c5845217734b5d88069bc8a "pdflatex"
-  "ESPRIT_TR.tex" 1701937594 83329 280c48f3a01e1ad45b3e82756f7e5076 ""
-  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.aux" 1701937708 5241 f56a496b7f50eee9338bb5d9e2ad5e61 ""
-  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex" 1701937594 83329 280c48f3a01e1ad45b3e82756f7e5076 ""
+  "ESPRIT_TR.aux" 1701938968 5241 98fc1d40df3f0a7a682314809e83bb6d "pdflatex"
+  "ESPRIT_TR.bbl" 1701938966 495 8b3fab57f9160e99e2e4f8f56cb62e34 "bibtex ESPRIT_TR"
+  "ESPRIT_TR.out" 1701938968 5030 8528a5f60c5845217734b5d88069bc8a "pdflatex"
+  "ESPRIT_TR.tex" 1701938453 83458 d64516e5312da12b6521a41e96e8d74b ""
+  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.aux" 1701938968 5241 98fc1d40df3f0a7a682314809e83bb6d ""
+  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.tex" 1701938453 83458 d64516e5312da12b6521a41e96e8d74b ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1681393712 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1681393603 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1681393807 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -258,9 +258,9 @@
   "c:/texlive/2021/texmf.cnf" 1681394659 713 e69b156964470283e0530f5060668171 ""
   "math_command.tex" 1701930705 1931 fa920f84a2109ab9a9c0aeeead97a3c1 ""
   (generated)
-  "ESPRIT_TR.pdf"
-  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.log"
-  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.pdf"
   "ESPRIT_TR.log"
-  "ESPRIT_TR.out"
+  "ESPRIT_TR.pdf"
+  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.pdf"
   "ESPRIT_TR.aux"
+  "c:/Users/yw/Desktop/git_learning/LATEX1/Notes on ESPRIT for large array processing/TR/ESPRIT_TR.log"
+  "ESPRIT_TR.out"
